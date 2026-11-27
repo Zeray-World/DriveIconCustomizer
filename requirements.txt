@@ -1,0 +1,7 @@
+# 盘符图标设置工具 - Python 依赖
+# 安装： pip install -r requirements.txt
+#
+# 运行环境：Python 3.8 及以上
+# 只有 Pillow 一个第三方依赖，其余全部是标准库
+
+Pillow>=9.0.0
